@@ -1,0 +1,41 @@
+.find-users-container {
+  background-color: #34495E;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  color: #ECF0F1;
+  margin-top: 20px;
+  border:2px solid #1ABC9C ;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.wave-emoji {
+  color: #ECF0F1;
+  font-size: 40px;
+  margin-right: 8px;
+}
+
+.refresh-button {
+  background-color: #1ABC9C;
+  color: #ECF0F1;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.divider {
+  margin: 8px 0;
+  border-color: #7F8C8D;
+  border-width: 1px;
+}

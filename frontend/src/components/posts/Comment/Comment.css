@@ -1,0 +1,52 @@
+.comment {
+  background-color: #1c2833;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  padding: 8px;
+  color: #ecf0f1;
+}
+
+.comment.depth-1 {
+  background-color: #34495e;
+}
+
+.comment-content {
+  padding-left: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.post-link {
+  text-decoration: none;
+  color: #1abc9c;
+}
+
+.comment-meta {
+  font-size: 0.875rem;
+  color: #ecf0f1;
+  margin-bottom: 4px;
+}
+
+.minimize-button,
+.reply-button,
+.edit-button,
+.delete-button {
+  color: #e74c3c;
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+}
+
+.reply-editor {
+  margin-top: 8px;
+}
+
+.comment-actions {
+  margin-top: 4px;
+}
+
+.replies {
+  padding-top: 8px;
+}

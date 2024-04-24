@@ -1,0 +1,24 @@
+/* Message.css */
+.message-container {
+  display: flex;
+  padding: 8px 0;
+  width: 100%;
+}
+
+.incoming-message {
+  border-radius: 25px;
+  background-color: #daf7a6;
+  border-width: 1px;
+  padding: 12px;
+  max-width: 70%;
+  margin-left: 8px;
+}
+
+.outgoing-message {
+  border-radius: 25px;
+  background-color: #1abc9c;
+  border-width: 1px;
+  padding: 12px;
+  max-width: 70%;
+  margin-right: 8px;
+}

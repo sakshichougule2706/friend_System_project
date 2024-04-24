@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #1ABC9C;
+  cursor: pointer;
+}
+
+.selected-container {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #1ABC9C;
+  background-color: #333;
+  cursor: pointer;
+}
+
+.username {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #cccccc;
+}

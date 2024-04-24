@@ -1,0 +1,42 @@
+.edit-profile-container {
+  padding: 20px;
+  background-color: #1c1c1c;
+  color: #f0f0f0;
+}
+
+.edit-profile-container h2 {
+  color: #ffffff;
+}
+
+.form-input {
+  margin-bottom: 10px;
+}
+
+.form-input label {
+  color: #ffffff;
+}
+
+.form-input input {
+  margin-left: 10px;
+  padding: 8px;
+  background-color: #333;
+  color: #f0f0f0;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color: #2ecc71;
+  color: #ffffff;
+  border: none;
+}
+
+.success-feedback {
+  margin-top: 10px;
+  color: #2ecc71;
+}
+
+.error-feedback {
+  margin-top: 10px;
+  color: #e74c3c;
+}

@@ -1,0 +1,15 @@
+.go-back-container {
+  margin-bottom: 16px;
+}
+
+.go-back-text {
+  margin-bottom: 8px;
+}
+
+.go-back-link {
+  color: #1ABC9C;
+  text-decoration: none;
+  background-color: #2C3E50;
+  padding: 8px 12px;
+  border-radius: 4px;
+}

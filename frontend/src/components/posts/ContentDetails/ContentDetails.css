@@ -1,0 +1,19 @@
+.content-details-container {
+  display: flex;
+  align-items: center;
+}
+
+.content-details-text {
+  margin-left: 8px;
+  color: #cccccc;
+}
+
+.username-link {
+  color: #66c0f4;
+  text-decoration: none;
+}
+
+.edited-text {
+  font-style: italic;
+  color: #b3b3b3;
+}

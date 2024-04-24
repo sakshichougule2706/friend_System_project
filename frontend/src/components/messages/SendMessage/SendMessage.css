@@ -1,0 +1,32 @@
+.container {
+  margin: 8px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+  padding: 8px;
+  border-radius: 8px;
+  margin-bottom: 70px;
+}
+
+.textField {
+  flex-grow: 1;
+  margin-right: 8px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #444;
+  color: #f5f5f5;
+  background-color: #2a2a2a;
+  
+}
+
+.button {
+  min-width: 64px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: #5ea1ff;
+  color: #1a1a1a;
+  border: none;
+  cursor: pointer;
+}

@@ -1,0 +1,60 @@
+.post-card {
+  padding: 0;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border: 2px solid #1abc9c;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.post-content-wrapper {
+  display: flex;
+  align-items: initial;
+}
+
+.poster-avatar {
+  background-color: #333;
+  width: 50px;
+  padding: 8px;
+}
+
+.content-details-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.edit-delete-buttons-container {
+  display: flex;
+}
+
+.edit-button,
+.delete-button {
+  height: 25px;
+  width: 70px;
+  background-color: #1abc9c;
+  color: #ecf0f1;
+  margin-right: 8px;
+}
+
+.post-title {
+  overflow: hidden;
+  margin-top: 8px;
+  max-height: 150px;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.post-metadata {
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.metadata-label {
+  font-weight: bold;
+  color: #aaaaaa;
+  margin-right: 5px;
+}

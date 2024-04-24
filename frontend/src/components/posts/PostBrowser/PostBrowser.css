@@ -1,0 +1,59 @@
+.post-browser-container {
+  background-color: #121212;
+  color: #ffffff;
+  padding: 16px;
+}
+
+.post-browser-header {
+  background-color: #1f1f1f;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.search-results {
+  margin-top: 16px;
+}
+
+.search-results h2 {
+  margin: 0 0 8px;
+}
+
+.search-results p {
+  margin: 0 0 8px;
+}
+
+.post-list {
+  margin-top: 16px;
+}
+
+.load-more {
+  padding-top: 16px;
+  padding-bottom: 48px;
+  text-align: center;
+}
+
+.load-more button {
+  background-color: #1a73e8;
+  color: #ffffff;
+  padding: 8px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  margin-bottom: 8px;
+}
+
+.load-more button:last-child {
+  margin-bottom: 0;
+}
+
+.back-to-top button {
+  color: #aaaaaa;
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.back-to-top button:last-child {
+  margin-left: 8px;
+}

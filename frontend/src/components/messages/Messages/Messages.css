@@ -1,0 +1,56 @@
+/* Messages.css */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  height: 60px;
+  margin-top: 20px;
+}
+
+.back-button {
+  padding: 7px;
+  border: none;
+  background: none;
+}
+
+.username {
+  margin-left: 20px;
+  font-size: 20px;
+}
+
+.messages-container {
+  height: calc(100vh - 240px);
+  overflow-y: auto;
+}
+
+.messages-content {
+  height: 100%;
+  padding: 8px;
+  overflow-y: auto;
+}
+
+.default-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #1ABC9C;
+  margin-right: 20px;
+  
+}
+
+.app-name {
+  font-size: 40px;
+}
+
+.instructions {
+  color: #ffffff;
+}

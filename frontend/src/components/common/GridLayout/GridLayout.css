@@ -1,0 +1,25 @@
+.grid-layout-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  margin: 0;
+  background-color: #2C3E50;
+  color: #ECF0F1;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+.left-column {
+  margin: 0;
+}
+
+.right-column {
+  margin: 0;
+  display: none;
+}
+
+@media (min-width: 1168px) {
+  .right-column {
+    display: block;
+  }
+}

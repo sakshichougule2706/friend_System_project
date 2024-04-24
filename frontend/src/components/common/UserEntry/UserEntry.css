@@ -1,0 +1,40 @@
+.listItem {
+  background-color: #444;
+  color: #fff;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.button {
+  margin-left: 20px;
+  background-color: #1ABC9C;
+  color: #fff;
+  border-radius: 4px;
+  width: 150px;
+  height: 30px;
+}
+
+.link {
+  color: #00aaff;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-left: auto;
+}
